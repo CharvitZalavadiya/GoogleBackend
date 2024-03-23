@@ -72,6 +72,11 @@
                 "name": "CodePen",
                 "img": "https://firebasestorage.googleapis.com/v0/b/landing-page-5915b.appspot.com/o/codepen.png?alt=media&token=b7b0fad3-90a8-4716-a935-ef4cbc9f70f3",
                 "link": "https://codepen.io/trending"
+            },
+            {
+                "name": "FlowBite",
+                "img": "https://firebasestorage.googleapis.com/v0/b/landing-page-5915b.appspot.com/o/flowbite.jpg?alt=media&token=0e0b1a80-1f38-4199-b89e-f6440c8f6edb",
+                "link": "https://flowbite.com/dashboard/"
             }
         ],
         "Google" : [
